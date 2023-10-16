@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Domenico Gagliotti</h1>
 <h3 align="center">I am a student of second year of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdom3&label=Profile%20views&color=0e75b6&style=flat" alt="gdom3" /> </p>
+
 - 🔭 I’m currently working on [University's project](https://github.com/GDom3/ProgettoGagliottiDifferente.git)
 
-- 📝 I regularly write articles on University courses
+- 📝 I regularly write articles on [University courses](University courses)
 
 - 📫 How to reach me **do.gagliotti@studenti.unina.it**
 
