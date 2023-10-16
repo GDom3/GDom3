@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [University's project](https://github.com/GDom3/ProgettoGagliottiDifferente.git)
 
-- 📝 I regularly write articles on [University courses](University courses)
+- 📝 I regularly write articles on University courses
 
 - 📫 How to reach me **do.gagliotti@studenti.unina.it**
 
