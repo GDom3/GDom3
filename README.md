@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Domenico Gagliotti</h1>
 <h3 align="center">I am a student of second year of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdom3&label=Profile%20views&color=0e75b6&style=flat" alt="gdom3" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdom3" alt="gdom3" /></a> </p>
 
 - 🔭 I’m currently working on [University's project](https://github.com/GDom3/ProgettoGagliottiDifferente.git)
 
